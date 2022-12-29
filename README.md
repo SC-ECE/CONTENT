@@ -10,7 +10,7 @@
 Synapse is open to everyone and it marks the celebration of **Open Source.** It's the first Open Source event of AOT that encourages newbies to participate in Open Source and create their 1st meaningful PR.
 <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
   
-# Rules and Regulations of contribution in Content Reposotory
+# Rules and Regulations of contribution in Content Repository
 - These are the list of topics. You can write on as many topics as you want. 
 - The threshold word count is 100 words. 
 - Your article will be rated on a scale of 1 to 10 based on quality, words used and resemblance to the topic.
