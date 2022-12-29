@@ -8,8 +8,59 @@
 
 :diamonds: Synapse is a month-long challenge. It happens every year in the month of January.
 Synapse is open to everyone and it marks the celebration of **Open Source.** It's the first Open Source event of AOT that encourages newbies to participate in Open Source and create their 1st meaningful PR.
+<h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
   
-  <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
+# Rules and Regulations of contribution in Content Reposotory
+- These are the list of topics. You can write on as many topics as you want. 
+- The threshold word count is 100 words. 
+- Your article will be rated on a scale of 1 to 10 based on quality, words used and resemblance to the topic.
+- All articles must be plagiarism free.
+- The participant with the maximum number of points will be declared the winner.
+# Topics Of Article/Newsletter @Synapse 1.0
+- Recession plays a key role in unemployment.
+- Chatgpt
+- DALL E
+- Web 3.0
+- Engineering can make you feel passionate about your passion.
+- Engineering is helpful to grow your character.
+- Engineering is an emotion.
+- Engineering Hostel/Mess Life.
+- Engineering can make you independent.
+- Are ed tech startups looting Indian youth of their dreams?
+- Green steel - will India play a game changer role?
+- Ransomware- the faceless war( Internet has changed modern day warfare)
+- The Need of personal branding in 2023
+- AI- a threat to humanity
+- India's rocket journey from Rohini-75 to Prarambh 
+- UHI : will it unify India?
+- Cyber pandemic.
+- Financial literacy 
+- The fate of Indian drama post covid
+- Crypto is the currency of the future.
+- India's last village mana.
+- Does the Indian debt recovery system need a massive change?
+- Virtual Reality Gaming.
+- Technology advancement in the Music industry.
+- EDM case study.
+- Meta case study.
+- From Satyajit Roy to South Indian Dominance the Evolution of the Indian Cinema ecosystem.
+- Web 2.0 Technology: Development and Issues
+- Machine learning.
+- India's Drug problem.
+- Social media dating app crimes.
+- Space
+- The diverse Food culture in india.
+- Diversity of Culture in india.
+- Bengali culture.
+- The diverse festival culture in india.
+- The indian Startup
+- React Deployment
+- How to deploy flutter web apps to firebase
+- React 'Aha' Moments.
+- Why Go and not Rust?
+- Using Go as a scripting language in Linux
+- How to Use the React Profiler Component to Measure Render Performance
+  
 
 🏆 🏆 **Rewards :** 🏆🏆
 
