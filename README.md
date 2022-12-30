@@ -64,16 +64,10 @@ https://forms.gle/DAQELB4Gx7raeV6u6
 - Using Go as a scripting language in Linux
 - How to Use the React Profiler Component to Measure Render Performance
   
+# Rewards :
 
-🏆 🏆 **Rewards :** 🏆🏆
-
-You get some awesome goodies for **FREE!**.
-
-🤔🤔**How can you Join** :grey_question::grey_question:
-
-Navigate to the link below 👇 👇 and follow the instructions ✔️ ✔️
-
-<https://hacktoberfest.digitalocean.com/register>
+- You get some awesome goodies for **FREE!**.
+- participation certificates for all participants.
 
 ## Excited :interrobang: :star_struck: :star_struck: :star_struck:  
 
