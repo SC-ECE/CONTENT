@@ -181,12 +181,13 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/scEce-Tech/CONTENT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=scEce-Tech/CONTENT/" />
+			<a href="https://github.com/scEce-Tech/WEB-PROJECT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=scEce-Tech/WEB-PROJECT" />
 </a>
 		</td>
 	</tr>
 </table>
+
 
 
 ## :confetti_ball: :confetti_ball: :fireworks: :fireworks: Thanks for  your  Contribution!! :collision: :collision: :collision: :cupid: :cupid:
