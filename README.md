@@ -11,7 +11,7 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
 <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
   
 # Rules and Regulations of contribution in Content Repository
-- These are the list of topics. You can write on as many topics as you want. 
+- A list of topics is given below. You can write on as many topics as you want. 
 - The threshold word count is 100 words. 
 - Your article will be rated on a scale of 1 to 10 based on quality, words used and resemblance to the topic.
 - All articles must be plagiarism free.
@@ -43,7 +43,7 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
 - Technology advancement in the Music industry.
 - EDM case study.
 - Meta case study.
-- From Satyajit Roy to South Indian Dominance the Evolution of the Indian Cinema ecosystem.
+- From Satyajit Roy to South Indian Dominance: the evolution of the Indian Cinema ecosystem.
 - Web 2.0 Technology: Development and Issues
 - Machine learning.
 - India's Drug problem.
@@ -53,7 +53,7 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
 - Diversity of Culture in india.
 - Bengali culture.
 - The diverse festival culture in india.
-- The indian Startup
+- The Indian Startups- a way to atmanirbhar renaissance?
 - React Deployment
 - How to deploy flutter web apps to firebase
 - React 'Aha' Moments.
