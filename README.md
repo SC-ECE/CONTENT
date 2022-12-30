@@ -9,6 +9,9 @@
 :diamonds: Synapse is a month-long challenge. It happens every year in the month of January.
 Synapse is open to everyone and it marks the celebration of **Open Source.** It's the first Open Source event of AOT that encourages newbies to participate in Open Source and create their 1st meaningful PR.
 <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
+
+# Registration link of Syanpse 1.0 
+https://forms.gle/DAQELB4Gx7raeV6u6
   
 # Rules and Regulations of contribution in Content Repository
 - A list of topics is given below. You can write on as many topics as you want. 
