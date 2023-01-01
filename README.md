@@ -19,6 +19,8 @@ https://synapse1-0.vercel.app/
 - Your article will be rated on a scale of 1 to 10 based on quality, words used and resemblance to the topic.
 - All articles must be plagiarism free.
 - The participant with the maximum number of points will be declared the winner.
+- You have to make a readme file and attach the ticket in your contributed folder.
+
 # Topics Of Article/Newsletter @Synapse 1.0
 - Recession plays a key role in unemployment.
 - Chatgpt
