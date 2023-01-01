@@ -11,7 +11,7 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
 <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
 
 # Registration link of Syanpse 1.0 
-https://forms.gle/zQyxgsGpnAUNrV7o9
+https://synapse1-0.vercel.app/
   
 # Rules and Regulations of contribution in Content Repository
 - A list of topics is given below. You can write on as many topics as you want. 
@@ -171,19 +171,7 @@ Then lets start with this repository.
 #### :small_red_triangle: Type a proper description and give the PR an appropriate title. Finally, Open a pull request by clicking the Create pull request button.
 
 ####  That's it. You have opened a PR. Wait for it to get merged. :partying_face: :partying_face: :partying_face:
-<h2 align=center> ✨ Contributors </h2>
 
-Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind is welcome! 
-
-<table>
-	<tr>
-		<td>
-			<a href="https://github.com/SC-ECE/CONTENT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SC-ECE/CONTENT" />
-</a>
-		</td>
-	</tr>
-</table>
 
 
 
