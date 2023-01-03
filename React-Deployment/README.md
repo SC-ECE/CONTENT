@@ -5,10 +5,10 @@
 
 ---
 - **Introduction**:- 
-ReactJS is a simple, feature rich, component based JavaScript UI library. It can be used to develop small applications as well as big, complex applications. ReactJS provides minimal and solid feature set to kick-start a web application. 
+React is a JavaScript library for building user interfaces.It was developed at Facebook in 2011 and it's currently one of the most popular javascript library for building user interfaces. 
 - **Deployment**:-
-Once you've successfully built and tested your React app, the final step is hosting and deploying it on a server. This makes your React app public, allowing other users to see your app using a URL. There are numerous hosting and deployment services available online that can run your React app from a remote server.
-	- There are several sevices available for deploying a react-app :- 
+After buildng a react application the work is to deploy or host the application in any platform.So there are many servers available in the internet most of them are free of cost.You can choose any platform and go with the guide on how to deploy your app on that corresponding platform.You can check some of them from the below list.
+	- Some of them are :- 
 	  - [Vercel](https://blog.logrocket.com/deploy-react-app-for-free-using-vercel/)
 	  - [Firebase](https://www.pluralsight.com/guides/deploy-a-react-app-on-a-server#module-deployingreactapponfirebase)
 	  - [Netlify](https://www.freecodecamp.org/news/how-to-deploy-react-router-based-app-to-netlify/)
